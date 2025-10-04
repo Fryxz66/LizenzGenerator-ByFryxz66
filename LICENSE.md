@@ -1,4 +1,4 @@
- Endbenutzer-Lizenzvereinbarung (EULA) für [Programmname]
+ Endbenutzer-Lizenzvereinbarung (EULA) für LizenzGenerator-ByFryxz66
 
 Copyright © 2025 Fryxz66
 
@@ -19,3 +19,4 @@ Der Urheber übernimmt keine Haftung für Schäden, die durch die Nutzung entste
 
 
 Bei Fragen kontaktieren Sie: [Fryxz66](fryxz-coop@gmx.de)
+
