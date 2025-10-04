@@ -48,7 +48,10 @@ Ein benutzerfreundliches Windows-Programm zum Erstellen und Überprüfen eindeut
 - Möchtest du den Quellcode oder neue Features? Erstelle ein [Issue](https://github.com/Fryxz66/LizenzGenerator-ByFryxz/issues).
 
 ## Lizenz
-MIT License
+Dieses Programm wird unter einer Endbenutzer-Lizenzvereinbarung (EULA) bereitgestellt. 
+Bitte lesen Sie die [LICENSE](LICENSE.md) -Datei für die genauen Nutzungsbedingungen. 
+Kurzfassung: 
+Sie dürfen das Programm für persönliche Zwecke nutzen, aber nicht verändern, kopieren oder verkaufen.
 
 ## Kontakt
 Bei Fragen oder Problemen erstelle ein [Issue](https://github.com/Fryxz66/LizenzGenerator-ByFryxz/issues) oder kontaktiere den Entwickler.
