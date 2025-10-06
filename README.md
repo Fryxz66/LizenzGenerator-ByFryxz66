@@ -45,7 +45,7 @@ Ein benutzerfreundliches Windows-Programm zum Erstellen und Überprüfen eindeut
 > [!NOTE]
 > Information für Entwickler!
 - Der Quellcode ist nicht enthalten, da das Programm als `.exe` verteilt wird.
-- Möchtest du den Quellcode oder neue Features? Erstelle ein [Issue](https://github.com/Fryxz66/LizenzGenerator-ByFryxz/issues).
+- Möchtest du den Quellcode oder neue Features? Erstelle ein [Issue](https://github.com/Fryxz66/LizenzGenerator-ByFryxz66/issues).
 
 ## Lizenz
 Dieses Programm wird unter einer Endbenutzer-Lizenzvereinbarung (EULA) bereitgestellt. 
@@ -54,6 +54,6 @@ Kurzfassung:
 Sie dürfen das Programm für persönliche Zwecke nutzen, aber nicht verändern, kopieren oder verkaufen.
 
 ## Kontakt
-Bei Fragen oder Problemen erstelle ein [Issue](https://github.com/Fryxz66/LizenzGenerator-ByFryxz/issues) oder kontaktiere den Entwickler.
+Bei Fragen oder Problemen erstelle ein [Issue](https://github.com/Fryxz66/LizenzGenerator-ByFryxz66/issues) oder kontaktiere den Entwickler.
 
 © 2025 Lizenz-Generator powered by Fryxz66
