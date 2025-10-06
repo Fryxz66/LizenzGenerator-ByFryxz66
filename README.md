@@ -13,7 +13,7 @@ Ein benutzerfreundliches Windows-Programm zum Erstellen und Überprüfen eindeut
 > [!IMPORTANT]
 > Wie bleibe ich auf dem neusten Stand?
 1. **Neueste Version herunterladen**:
-   - Gehe zu den [Releases](https://github.com/Fryxz66/LizenzGenerator-ByFryxz/releases).
+   - Gehe zu den [Releases](https://github.com/Fryxz66/LizenzGenerator-ByFryxz66/releases).
    - Lade die neueste `.exe`-Datei herunter (z. B. `LizenzGenerator-ByFryxz-v1.x.x.exe`).
    - **Wichtig**: Verwende immer die neueste Release-Version, um die aktuellsten Features und Fehlerkorrekturen zu erhalten.
 2. Speichere die `.exe` in einem Ordner deiner Wahl (z. B. `C:\Users\DeinName\Dokumente\LizenzGenerator-ByFryxz`).
